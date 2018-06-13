@@ -1,5 +1,5 @@
 # Analytics
-In this Sample I am creating a test pipeline using Azure Data Factory to do some basic transformations in python and then write the output to a CSV.
+In this Sample I am creating a test pipeline using Azure Data Factory with Spark hdinsight activity to do some basic transformations in python and then write the output to a CSV.
 
 1) The source file in this sample can be any json object with some meaning full data
 2) Basic transformations and mappings to be used in python3 to create data frames and combine them.
